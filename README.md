@@ -10,7 +10,7 @@
    T  H  E     A  M  O  E  B  A
 ```
 
-# 🦠 GLOOP THE AMOEBA
+# 🦠 GRÉM 
 
 ### *Full-Stack Web3 & Solana Engineer • dApp Architect • Meme Ecosystem Creator*
 
@@ -30,7 +30,7 @@
 
 ## 🧬 About Me
 
-Hey! I'm **Gloop**, a high-velocity **Full-Stack Web3 & Solana Software Engineer**, dApp builder, and creator of high-engagement meme ecosystems. I turn complex decentralized protocols into fluid, lightning-fast web experiences and automated high-throughput CLI tooling.
+Hey! I'm **Grém**, a high-velocity **Full-Stack Web3 & Solana Software Engineer**, dApp builder, and creator of high-engagement meme ecosystems. I turn complex decentralized protocols into fluid, lightning-fast web experiences and automated high-throughput CLI tooling.
 
 - ⚡ **Smart Contract Engineering**: Writing ultra-optimized, secure Anchor/Rust programs on Solana.
 - 🌐 **Next.js Wallet Integration**: Crafting intuitive dApp frontends with `@solana/wallet-adapter-react`, wagmi, and slick Tailwind UI/UX.
@@ -86,12 +86,12 @@ Hey! I'm **Gloop**, a high-velocity **Full-Stack Web3 & Solana Software Engineer
 
 Let's collaborate on dApps, Solana smart contracts, or Web3 growth ecosystems!
 
-[![Twitter/X](https://img.shields.io/badge/X%2FTwitter-@GloopTheAmoeba-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GloopTheAmoeba)
+[![Twitter/X](https://img.shields.io/badge/X%2FTwitter-@ShellTear-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GloopTheAmoeba)
 [![GitHub](https://img.shields.io/badge/GitHub-GloopTheAmoeba-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GloopTheAmoeba)
-[![Live dApp](https://img.shields.io/badge/Live_dApp-Gloop_Ecosystem-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gloop-dapp.vercel.app)
+[![Live dApp](https://img.shields.io/badge/Live_dApp-ShellTear_Ecosystem-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gloop-dapp.vercel.app)
 
 <br />
 
 <div align="center">
-  <sub>Designed with 🦠 by <b>Gloop The Amoeba</b> • Built for the Solana Ecosystem</sub>
+  <sub>Designed with 🦠 by Grém <b> A</b> • Built for the Solana Ecosystem</sub>
 </div>
